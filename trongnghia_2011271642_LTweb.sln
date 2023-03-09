@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trongnghia_2011271642_LTweb", "trongnghia_2011271642_LTweb\trongnghia_2011271642_LTweb.csproj", "{0C5553B8-87EF-447C-BA47-91325BE76B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5553B8-87EF-447C-BA47-91325BE76B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5553B8-87EF-447C-BA47-91325BE76B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5553B8-87EF-447C-BA47-91325BE76B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5553B8-87EF-447C-BA47-91325BE76B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4AB9899-7E91-4048-A0D6-4842D64E0098}
+	EndGlobalSection
+EndGlobal
